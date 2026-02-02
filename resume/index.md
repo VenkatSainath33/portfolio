@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Resume"
-permalink: /portfolio/resume/
+permalink: /resume/
 ---
 
 ## Resume
