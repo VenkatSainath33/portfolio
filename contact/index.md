@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Contact"
-permalink: /contact/
+permalink: /portfolio/contact/
 ---
 
 📧 **Email:** sainathrv.sap@gmail.com  
