@@ -5,6 +5,7 @@ title: "SAP Security & GRC Solution Architect"
 
 **Venkata Sainath Rameswarapu**  
 > Designing audit-ready SAP access governance for global enterprises with zero disruption.
+
 📍 Jersey City, NJ  
 📧 sainathrv.sap@gmail.com | 📞 +1 (347) 847-3655  
 🔗 [LinkedIn](https://linkedin.com/in/venkat-r-7932b460)
