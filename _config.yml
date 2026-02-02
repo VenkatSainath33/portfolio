@@ -1,0 +1,24 @@
+title: "Venkata Sainath Rameswarapu"
+description: "SAP Security & GRC Solution Architect — S/4HANA, GRC, SOX/ITGC"
+url: "https://venkatsainath33.github.io"
+baseurl: "/portfolio"
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+navigation:
+  - title: "Home"
+    url: /portfolio/
+  - title: "Case Studies"
+    url: /portfolio/case-studies/
+  - title: "Resume"
+    url: /portfolio/resume/
+  - title: "Contact"
+    url: /portfolio/contact/
+
+markdown: kramdown
+kramdown:
+  input: GFM
