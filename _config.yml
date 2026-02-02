@@ -9,16 +9,6 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
-navigation:
-  - title: "Home"
-    url: /portfolio/
-  - title: "Case Studies"
-    url: /portfolio/case-studies/
-  - title: "Resume"
-    url: /portfolio/resume/
-  - title: "Contact"
-    url: /portfolio/contact/
-
 markdown: kramdown
 kramdown:
   input: GFM
