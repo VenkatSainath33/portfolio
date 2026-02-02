@@ -20,7 +20,8 @@ I design scalable SAP access governance and audit-ready security architectures f
 - Role design, authorization governance, remediation
 
 ## Featured Case Studies
-- [Enterprise SAP GRC 12.0 Implementation](./case-studies/grc-implementation/)
-- [Live Production SoD Conflict Resolution](./case-studies/sod-production/)
-- [S/4HANA MDG Security Architecture](./case-studies/mdg-security/)
-- [Compliance Automation & Analytics](./case-studies/automation-analytics/)
+- [Enterprise SAP GRC 12.0 Implementation](/portfolio/case-studies/grc-implementation/)
+- [Live Production SoD Conflict Resolution](/portfolio/case-studies/sod-production/)
+- [S/4HANA MDG Security Architecture](/portfolio/case-studies/mdg-security/)
+- [Compliance Automation & Analytics](/portfolio/case-studies/automation-analytics/)
+
