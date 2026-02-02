@@ -7,7 +7,7 @@ title: "SAP Security & GRC Solution Architect"
 > Designing audit-ready SAP access governance for global enterprises with zero disruption.
 
 📍 Jersey City, NJ  
-📧 sainathrv.sap@gmail.com | 📞 +1 (347) 847-3655  
+📧 [sainathrv.sap@gmail.com](mailto:sainathrv.sap@gmail.com) | 📞 [+1 (347) 847-3655](tel:+13478473655) 
 🔗 [LinkedIn](https://linkedin.com/in/venkat-r-7932b460)
 
 ---
